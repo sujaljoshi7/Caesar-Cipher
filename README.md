@@ -31,14 +31,6 @@ To run this program, you'll need to have Python installed on your system. If you
     source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
     ```
 
-4. Install any dependencies:
-
-    This project requires the `art` library for the logo display. Install it using pip:
-
-    ```bash
-    pip install art
-    ```
-
 ## Usage
 
 To start the game, run the following command in your terminal:
