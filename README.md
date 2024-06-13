@@ -15,7 +15,7 @@ To run this program, you'll need to have Python installed on your system. If you
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/caesar-cipher-game.git
+    git clone https://github.com/sujaljoshi7/caesar-cipher-game.git
     ```
 
 2. Navigate to the project directory:
